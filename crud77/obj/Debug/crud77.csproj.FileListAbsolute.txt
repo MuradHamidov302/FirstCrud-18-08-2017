@@ -11,3 +11,16 @@ c:\users\texnousta\documents\visual studio 2017\Projects\crud77\crud77\obj\Debug
 c:\users\texnousta\documents\visual studio 2017\Projects\crud77\crud77\obj\Debug\crud77.csproj.GenerateResource.Cache
 c:\users\texnousta\documents\visual studio 2017\Projects\crud77\crud77\obj\Debug\crud77.exe
 c:\users\texnousta\documents\visual studio 2017\Projects\crud77\crud77\obj\Debug\crud77.pdb
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\crud77.exe.config
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\crud77.exe
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\crud77.pdb
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\EntityFramework.dll
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\EntityFramework.xml
+C:\Users\TexnoUsta\Desktop\crud77\crud77\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TexnoUsta\Desktop\crud77\crud77\obj\Debug\crud77.csprojResolveAssemblyReference.cache
+C:\Users\TexnoUsta\Desktop\crud77\crud77\obj\Debug\crud77.Form1.resources
+C:\Users\TexnoUsta\Desktop\crud77\crud77\obj\Debug\crud77.Properties.Resources.resources
+C:\Users\TexnoUsta\Desktop\crud77\crud77\obj\Debug\crud77.csproj.GenerateResource.Cache
+C:\Users\TexnoUsta\Desktop\crud77\crud77\obj\Debug\crud77.exe
+C:\Users\TexnoUsta\Desktop\crud77\crud77\obj\Debug\crud77.pdb

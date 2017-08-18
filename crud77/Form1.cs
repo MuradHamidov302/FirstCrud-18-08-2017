@@ -19,6 +19,7 @@ namespace crud77
         }
         crud77Entities db = new crud77Entities();
 
+        //textboxlara beraber bosh() metodu
         string ad1 ;
         string soyad1;
         string age1;
@@ -51,7 +52,7 @@ namespace crud77
         {
             bosh();
 
-            crud77 qeyd = new crud77();
+            crud77 qeyd = new crud77();//table adi crud77 col name(name,surname,age)
             qeyd.name = ad1;
             qeyd.surname = soyad1;
             qeyd.age = Convert.ToInt32(age1);
@@ -63,7 +64,7 @@ namespace crud77
             
         }
 
-        private void idData_SelectedIndexChanged(object sender, EventArgs e)
+        private void idData_SelectedIndexChanged(object sender, EventArgs e)//idData comboBox name
         {
             int id = Convert.ToInt32(idData.SelectedItem);
             var id1 = db.crud77.Where((x) => x.Id == id).First();
